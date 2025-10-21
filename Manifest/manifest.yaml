@@ -134,7 +134,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: castromeka/gcbank:v3
+        image: castromeka/gcbank:v1
         resources:
           requests:
             memory: "256Mi"
