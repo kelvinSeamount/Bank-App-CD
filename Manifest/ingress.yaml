@@ -23,4 +23,4 @@ spec:
   tls:
     - hosts:
         - www.piroo.online
-      secretName: shackverse-co-tls
+      secretName: piroo-tls-secret
