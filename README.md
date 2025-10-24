@@ -1,3 +1,7 @@
+                        Corporate Bank App Mega Devops Project
+
+![alt text](Flow.png)
+
 Overview
 This repository contains the Continuous Deployment (CD) pipeline configuration and Kubernetes manifests for the Corporate Mega DevOps Project. The CD pipeline uses Jenkins to deploy the BankApp application and MySQL database to Amazon EKS (Elastic Kubernetes Service) cluster with automated SSL certificate management, horizontal pod autoscaling, and comprehensive monitoring.
 
